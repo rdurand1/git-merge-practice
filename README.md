@@ -1,2 +1,4 @@
 # Merge Practice Repo
-Ce dépôt sert à pratiquer les merge requests.
+Application de démonstration pour les exercices de merge.
+
+- Hotfix: correction du titre
